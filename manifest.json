@@ -1,0 +1,22 @@
+{
+  "name": "Blonde Bailly - Bijoux & Cosmétiques",
+  "short_name": "BlondeBailly",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f9c5d1",
+  "orientation": "portrait",
+  "description": "Bijoux, cosmétiques et accessoires de beauté — par Blonde Bailly. Élégance, bien-être et authenticité au naturel.",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
