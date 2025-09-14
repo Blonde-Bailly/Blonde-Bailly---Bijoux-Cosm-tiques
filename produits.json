@@ -1,0 +1,17 @@
+[
+  {
+    "nom": "Crème hydratante naturelle",
+    "prix": "19.90€",
+    "description": "Hydrate en profondeur avec des extraits de plantes bio."
+  },
+  {
+    "nom": "Huile visage & corps",
+    "prix": "24.50€",
+    "description": "Nourrit intensément et apporte éclat naturel."
+  },
+  {
+    "nom": "Parfum artisanal - Rose & Musc",
+    "prix": "39.00€",
+    "description": "Un sillage élégant, féminin et inoubliable."
+  }
+]
